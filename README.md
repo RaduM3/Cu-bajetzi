@@ -1,0 +1,2 @@
+# Cu-bajetzi
+La scoala
