@@ -1,0 +1,12 @@
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\bin\Debug\FilesRename.exe.config
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\bin\Debug\FilesRename.exe
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\bin\Debug\FilesRename.pdb
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\obj\Debug\FilesRename.Properties.Resources.resources
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\obj\Debug\FilesRename.csproj.GenerateResource.Cache
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\obj\Debug\FilesRename.exe
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\obj\Debug\FilesRename.pdb
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\obj\Debug\FilesRename.Form1.resources
+C:\Sergiu\Programe\C Sharp\Proiecte\FilesRename\FilesRename\obj\Debug\FilesRename.csprojResolveAssemblyReference.cache
+D:\Clase\10H\FilesRename\FilesRename\bin\Debug\FilesRename.exe.config
+D:\Clase\10H\FilesRename\FilesRename\obj\Debug\FilesRename.exe
+D:\Clase\10H\FilesRename\FilesRename\obj\Debug\FilesRename.pdb
